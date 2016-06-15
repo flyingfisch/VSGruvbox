@@ -3168,7 +3168,7 @@
         <Background Type="CT_RAW" Source="FF333334" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOver">
-        <Background Type="CT_RAW" Source="FF1D2021" />
+        <Background Type="CT_RAW" Source="FF458588" />
         <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="ScrollBarArrowGlyphPressed">
