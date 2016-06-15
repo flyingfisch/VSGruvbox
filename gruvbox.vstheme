@@ -5635,7 +5635,7 @@
         <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="TETileListBackground">
-        <Background Type="CT_RAW" Source="FF282828" />
+        <Background Type="CT_RAW" Source="FF3C3836" />
       </Color>
       <Color Name="TETileListForeground">
         <Background Type="CT_RAW" Source="FFFBF1C7" />
