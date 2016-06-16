@@ -1,5 +1,5 @@
 # VSGruvbox
-A gruvbox UI theme for visual studio
+A UI theme for Visual Studio that uses the [gruvbox](https://github.com/morhetz/gruvbox) color scheme
 
 ## Installation
 
