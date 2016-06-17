@@ -2,7 +2,13 @@
   <Theme Name="Gruvbox" GUID="{afd88416-b66a-4983-8e35-26d106589c22}">
     <Category Name="Autos" GUID="{a7ee6bee-d0aa-4b2f-ad9d-748276a725f6}">
       <Color Name="ChangedText">
-        <Foreground Type="CT_RAW" Source="FFF7A1A1" />
+        <Foreground Type="CT_RAW" Source="FFD3869B" />
+      </Color>
+      <Color Name="Plain Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
     </Category>
     <Category Name="Cider" GUID="{92d153ee-57d7-431f-a739-0931ca3f7f70}">
@@ -397,10 +403,10 @@
         <Foreground Type="CT_RAW" Source="FFADC0D3" />
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
-        <Background Type="CT_RAW" Source="FF773800" />
+        <Background Type="CT_RAW" Source="FFD65D0E" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScopeHighlight">
-        <Background Type="CT_RAW" Source="FF0F202D" />
+        <Background Type="CT_RAW" Source="FF458588" />
       </Color>
       <Color Name="Literal">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -828,14 +834,14 @@
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF252526" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF282828" />
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FFD79921" />
+        <Background Type="CT_RAW" Source="FF458588" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
     </Category>
     <Category Name="ConfigPage" GUID="{699a73b3-57e2-4754-9364-ee80d6852c2f}">
@@ -3325,7 +3331,7 @@
         <Background Type="CT_RAW" Source="FFCC241D" />
       </Color>
       <Color Name="AlertBorder">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF458588" />
       </Color>
       <Color Name="UnfocusedDropdown">
         <Background Type="CT_RAW" Source="FF3C3836" />
@@ -3334,18 +3340,18 @@
     </Category>
     <Category Name="Find Results" GUID="{5c48b2cb-0366-4fbf-9786-0bb37e945687}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF252526" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF282828" />
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FFD79921" />
+        <Background Type="CT_RAW" Source="FF665C54" />
       </Color>
       <Color Name="Current List Location">
         <Background Type="CT_RAW" Source="FF458588" />
         <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Background Type="CT_RAW" Source="FF3C3836" />
       </Color>
     </Category>
     <Category Name="Folder Difference" GUID="{b36b0228-dbad-4db0-b9c7-2ad3e572010f}">
@@ -3648,14 +3654,14 @@
     </Category>
     <Category Name="Immediate Window" GUID="{6bb65c5a-2f31-4bde-9f48-8a38dc0c63e7}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF252526" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF282828" />
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FF665C54" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Background Type="CT_RAW" Source="FF3C3836" />
       </Color>
     </Category>
     <Category Name="IntelliTrace" GUID="{ffa74b06-e011-49be-a58c-3efaa4b957d5}">
@@ -4464,7 +4470,13 @@
     </Category>
     <Category Name="Locals" GUID="{8259aced-490a-41b3-a0fb-64c842ccdc80}">
       <Color Name="ChangedText">
-        <Foreground Type="CT_RAW" Source="FFF7A1A1" />
+        <Foreground Type="CT_RAW" Source="FFD3869B" />
+      </Color>
+      <Color Name="Plain Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
     </Category>
     <Category Name="ManifestDesigner" GUID="{b239f458-9f75-4376-959b-4d48b89337f4}">
@@ -4648,10 +4660,10 @@
         <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF928374" />
+        <Background Type="CT_RAW" Source="FF665C54" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF504945" />
+        <Background Type="CT_RAW" Source="FF3C3836" />
       </Color>
     </Category>
     <Category Name="Page Inspector" GUID="{6cbc7204-91b7-416b-a1a1-34b94142998e}">
@@ -4679,8 +4691,8 @@
         <Background Type="CT_SYSCOLOR" Source="0000000F" />
       </Color>
       <Color Name="SelectedCategoryTab">
-        <Background Type="CT_RAW" Source="FFD79921" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF458588" />
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="CategoryTab">
         <Background Type="CT_SYSCOLOR" Source="0000000F" />
@@ -6456,7 +6468,13 @@
     </Category>
     <Category Name="Watch" GUID="{358463d0-d084-400f-997e-a34fc570bc72}">
       <Color Name="ChangedText">
-        <Foreground Type="CT_RAW" Source="FFF7A1A1" />
+        <Foreground Type="CT_RAW" Source="FFD3869B" />
+      </Color>
+      <Color Name="Plain Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
     </Category>
     <Category Name="WebClient Diagnostic Tools" GUID="{2aa714ae-53be-4393-84e0-dc95b57a1891}">
@@ -6868,6 +6886,49 @@
       </Color>
       <Color Name="TagHoverGlyphPressedBorder">
         <Foreground Type="CT_RAW" Source="FF458588" />
+      </Color>
+    </Category>
+    <Category Name="CallStack" GUID="{fd2219af-ebf8-4116-a801-3b503c48dff0}">
+      <Color Name="Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+    </Category>
+    <Category Name="Parallel Stacks" GUID="{4330ebb5-2f04-4e03-8414-69f6035087e0}">
+      <Color Name="Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+    </Category>
+    <Category Name="Parallel Tasks" GUID="{53371a83-c565-4995-817a-166fff2df0d3}">
+      <Color Name="Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+    </Category>
+    <Category Name="Parallel Watch" GUID="{e02a3ccd-2d8e-4628-97d7-1c0921dfa2f3}">
+      <Color Name="Plain Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="ChangedText">
+        <Foreground Type="CT_RAW" Source="FFFB4934" />
+      </Color>
+    </Category>
+    <Category Name="Threads" GUID="{bb8fe807-a186-404a-81fa-d20b908ca93b}">
+      <Color Name="Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
     </Category>
   </Theme>
