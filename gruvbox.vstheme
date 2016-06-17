@@ -1091,7 +1091,7 @@
     </Category>
     <Category Name="Editor Tooltip" GUID="{a9a5637f-b2a8-422e-8fb5-dfb4625f0111}">
       <Color Name="Plain Text">
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
     </Category>
     <Category Name="Environment" GUID="{624ed9c3-bdfd-41fa-96c3-7c824ea32e3d}">
@@ -3214,11 +3214,11 @@
         <Background Type="CT_RAW" Source="FF665C54" />
       </Color>
       <Color Name="ToolTipBorder">
-        <Background Type="CT_RAW" Source="FF4D4D50" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="ToolTip">
-        <Background Type="CT_RAW" Source="FF424245" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF282828" />
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="IconActionFill">
         <Background Type="CT_RAW" Source="FF7AC1FF" />
@@ -3230,7 +3230,7 @@
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ToolTipHintText">
-        <Background Type="CT_RAW" Source="FF717171" />
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="CommandBarMenuScrollGlyph">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -3239,11 +3239,11 @@
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="AccessKeyToolTip">
-        <Background Type="CT_RAW" Source="FF999999" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF928374" />
+        <Foreground Type="CT_RAW" Source="FF282828" />
       </Color>
       <Color Name="AccessKeyToolTipBorder">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="CommandBarSplitButtonGlyph">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -3267,11 +3267,11 @@
         <Background Type="CT_RAW" Source="FF3E3E42" />
       </Color>
       <Color Name="AccessKeyToolTipDisabled">
-        <Background Type="CT_RAW" Source="80525252" />
-        <Foreground Type="CT_RAW" Source="FF656565" />
+        <Background Type="CT_RAW" Source="FF504945" />
+        <Foreground Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="AccessKeyToolTipDisabledBorder">
-        <Background Type="CT_RAW" Source="80525252" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="ComboBoxFocusedButtonSeparator">
         <Background Type="CT_RAW" Source="FF458588" />
