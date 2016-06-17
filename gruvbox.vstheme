@@ -1912,7 +1912,7 @@
         <Background Type="CT_RAW" Source="FF2D2D30" />
       </Color>
       <Color Name="ToolWindowButtonInactiveGlyph">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="ToolWindowButtonInactive">
         <Background Type="CT_RAW" Source="FF3C3836" />
@@ -2480,7 +2480,7 @@
         <Background Type="CT_RAW" Source="FF282828" />
       </Color>
       <Color Name="TitleBarInactiveText">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="ToolboxBackground">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -2636,7 +2636,7 @@
         <Background Type="CT_RAW" Source="FF458588" />
       </Color>
       <Color Name="TitleBarDragHandle">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="ToolWindowFloatingFrameInactive">
         <Background Type="CT_RAW" Source="FF3C3836" />
