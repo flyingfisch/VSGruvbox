@@ -11,6 +11,14 @@
         <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
     </Category>
+    <Category Name="CallStack" GUID="{fd2219af-ebf8-4116-a801-3b503c48dff0}">
+      <Color Name="Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+    </Category>
     <Category Name="Cider" GUID="{92d153ee-57d7-431f-a739-0931ca3f7f70}">
       <Color Name="ToolWindow">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -429,22 +437,22 @@
         <Foreground Type="CT_RAW" Source="FF282828" />
       </Color>
       <Color Name="deltadiff.remove.line">
-        <Background Type="CT_RAW" Source="FF2D0000" />
+        <Background Type="CT_RAW" Source="FFCC241D" />
       </Color>
       <Color Name="deltadiff.add.line">
-        <Background Type="CT_RAW" Source="FF15352C" />
+        <Background Type="CT_RAW" Source="FF5D864F" />
       </Color>
       <Color Name="deltadiff.remove.word">
-        <Background Type="CT_RAW" Source="FF3C0000" />
-        <Foreground Type="CT_RAW" Source="FFFF6666" />
+        <Background Type="CT_RAW" Source="FFFB4934" />
+        <Foreground Type="CT_RAW" Source="FFCC241D" />
       </Color>
       <Color Name="deltadiff.add.word">
-        <Background Type="CT_RAW" Source="FF265E4D" />
-        <Foreground Type="CT_RAW" Source="FF76923C" />
+        <Background Type="CT_RAW" Source="FF48724A" />
+        <Foreground Type="CT_RAW" Source="FF98971A" />
       </Color>
       <Color Name="deltadiff.overview.color">
-        <Background Type="CT_RAW" Source="FF252925" />
-        <Foreground Type="CT_RAW" Source="FF424042" />
+        <Background Type="CT_RAW" Source="FF3C3836" />
+        <Foreground Type="CT_RAW" Source="FFA89984" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
         <Background Type="CT_RAW" Source="FF232323" />
@@ -830,6 +838,9 @@
       <Color Name="vsvim_commandmargin">
         <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="TrailingWhitespace">
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
@@ -3119,10 +3130,10 @@
         <Background Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="FileTabProvisionalHover">
-        <Background Type="CT_RAW" Source="FFB16286" />
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="FileTabProvisionalHoverBorder">
-        <Background Type="CT_RAW" Source="FFB16286" />
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="FileTabProvisionalHoverForeground">
         <Background Type="CT_RAW" Source="FFFBF1C7" />
@@ -4678,6 +4689,33 @@
         <Foreground Type="CT_RAW" Source="FFFF8027" />
       </Color>
     </Category>
+    <Category Name="Parallel Stacks" GUID="{4330ebb5-2f04-4e03-8414-69f6035087e0}">
+      <Color Name="Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+    </Category>
+    <Category Name="Parallel Tasks" GUID="{53371a83-c565-4995-817a-166fff2df0d3}">
+      <Color Name="Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+    </Category>
+    <Category Name="Parallel Watch" GUID="{e02a3ccd-2d8e-4628-97d7-1c0921dfa2f3}">
+      <Color Name="Plain Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="ChangedText">
+        <Foreground Type="CT_RAW" Source="FFFB4934" />
+      </Color>
+    </Category>
     <Category Name="ProgressBar" GUID="{94acf70f-a81d-4512-a31d-8196616751ee}">
       <Color Name="IndicatorFill">
         <Background Type="CT_RAW" Source="FF458588" />
@@ -6155,6 +6193,14 @@
         <Foreground Type="CT_RAW" Source="FF665C54" />
       </Color>
     </Category>
+    <Category Name="Threads" GUID="{bb8fe807-a186-404a-81fa-d20b908ca93b}">
+      <Color Name="Text">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+      <Color Name="SelectedText">
+        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
+      </Color>
+    </Category>
     <Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
       <Color Name="Background">
         <Background Type="CT_RAW" Source="FF282828" />
@@ -6886,49 +6932,6 @@
       </Color>
       <Color Name="TagHoverGlyphPressedBorder">
         <Foreground Type="CT_RAW" Source="FF458588" />
-      </Color>
-    </Category>
-    <Category Name="CallStack" GUID="{fd2219af-ebf8-4116-a801-3b503c48dff0}">
-      <Color Name="Text">
-        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
-      </Color>
-      <Color Name="SelectedText">
-        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
-      </Color>
-    </Category>
-    <Category Name="Parallel Stacks" GUID="{4330ebb5-2f04-4e03-8414-69f6035087e0}">
-      <Color Name="Text">
-        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
-      </Color>
-      <Color Name="SelectedText">
-        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
-      </Color>
-    </Category>
-    <Category Name="Parallel Tasks" GUID="{53371a83-c565-4995-817a-166fff2df0d3}">
-      <Color Name="Text">
-        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
-      </Color>
-      <Color Name="SelectedText">
-        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
-      </Color>
-    </Category>
-    <Category Name="Parallel Watch" GUID="{e02a3ccd-2d8e-4628-97d7-1c0921dfa2f3}">
-      <Color Name="Plain Text">
-        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
-      </Color>
-      <Color Name="SelectedText">
-        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
-      </Color>
-      <Color Name="ChangedText">
-        <Foreground Type="CT_RAW" Source="FFFB4934" />
-      </Color>
-    </Category>
-    <Category Name="Threads" GUID="{bb8fe807-a186-404a-81fa-d20b908ca93b}">
-      <Color Name="Text">
-        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
-      </Color>
-      <Color Name="SelectedText">
-        <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
     </Category>
   </Theme>
