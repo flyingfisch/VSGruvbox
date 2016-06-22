@@ -70,10 +70,10 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="HyperlinkMouseOver">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="GlyphMouseOver">
         <Background Type="CT_RAW" Source="FF007ACC" />
@@ -1872,10 +1872,10 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="StartPageTextControlLinkSelected">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="StartPageTextControlLinkSelectedHover">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="StartPageTextDate">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -2128,13 +2128,13 @@
         <Background Type="CT_RAW" Source="FF555555" />
       </Color>
       <Color Name="ControlLinkText">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="ControlLinkTextHover">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="ControlLinkTextPressed">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="ControlOutline">
         <Background Type="CT_RAW" Source="FF333337" />
@@ -2194,7 +2194,7 @@
         <Background Type="CT_RAW" Source="FF252526" />
       </Color>
       <Color Name="EditorExpansionLink">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="EditorExpansionText">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -2257,7 +2257,7 @@
         <Background Type="CT_RAW" Source="FFDEE1E7" />
       </Color>
       <Color Name="HelpHowDoIPaneLink">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="HelpHowDoIPaneText">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -2266,7 +2266,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="HelpHowDoITaskLink">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="HelpHowDoITaskText">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -2305,10 +2305,10 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="HelpSearchResultLinkSelected">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="HelpSearchResultLinkUnselected">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="HelpSearchResultSelectedBackground">
         <Background Type="CT_RAW" Source="FFFBF1C7" />
@@ -2344,13 +2344,13 @@
         <Background Type="CT_RAW" Source="FF3E3E40" />
       </Color>
       <Color Name="PanelHyperlink">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="PanelHyperlinkHover">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="PanelHyperlinkPressed">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="PanelSeparator">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -2945,19 +2945,19 @@
         <Background Type="CT_RAW" Source="FF3E3E40" />
       </Color>
       <Color Name="CommandBarMenuGroupHeaderLinkText">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="CommandBarMenuGroupHeaderLinkTextHover">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="CommandBarMenuWatermarkLinkTextHover">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="CommandBarMenuLinkText">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="CommandBarMenuLinkTextHover">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="CommandBarMenuWatermarkText">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -2976,10 +2976,10 @@
         <Foreground Type="CT_SYSCOLOR" Source="00000012" />
       </Color>
       <Color Name="DiagReportLinkText">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="DiagReportLinkTextHover">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseOverGlyph">
         <Background Type="CT_RAW" Source="FFFBF1C7" />
@@ -3483,7 +3483,7 @@
         <Background Type="CT_RAW" Source="FFDBF1F2" />
       </Color>
       <Color Name="GraphHyperlinkColor">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="ExpandoButtonBorder">
         <Background Type="CT_RAW" Source="80FFFFFF" />
@@ -4601,10 +4601,10 @@
         <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FF458588" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="HyperlinkHover">
-        <Background Type="CT_RAW" Source="FF458588" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="PageButtonBorder">
         <Background Type="CT_RAW" Source="00000000" />
@@ -5580,16 +5580,16 @@
     </Category>
     <Category Name="TeamExplorer" GUID="{4aff231b-f28a-44f0-a66b-1beeb17cb920}">
       <Color Name="ActionLinkItem">
-        <Foreground Type="CT_RAW" Source="FF83A598" />
+        <Foreground Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="ActionLinkItemSelected">
         <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="ActionLinkItemSelectedNotFocused">
-        <Foreground Type="CT_RAW" Source="FF83A598" />
+        <Foreground Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="ActionLinkItemHover">
-        <Foreground Type="CT_RAW" Source="FF83A598" />
+        <Foreground Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="ActionLinkItemDisabled">
         <Foreground Type="CT_RAW" Source="FF3C3836" />
@@ -5612,7 +5612,7 @@
         <Foreground Type="CT_RAW" Source="FFFBF1C7" />
       </Color>
       <Color Name="CodeReviewDiscussionSelectedActionLink">
-        <Background Type="CT_RAW" Source="FF83A598" />
+        <Background Type="CT_RAW" Source="FFFE8019" />
       </Color>
       <Color Name="TextBoxHintText">
         <Background Type="CT_RAW" Source="FF928374" />
