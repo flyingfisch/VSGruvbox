@@ -3103,7 +3103,7 @@
         <Background Type="CT_RAW" Source="FFFB4934" />
       </Color>
       <Color Name="MainWindowActiveDefaultBorder">
-        <Background Type="CT_RAW" Source="FF282828" />
+        <Background Type="CT_RAW" Source="FF3C3836" />
       </Color>
       <Color Name="MainWindowResizeGripTexture2">
         <Background Type="CT_RAW" Source="7B1D2021" />
