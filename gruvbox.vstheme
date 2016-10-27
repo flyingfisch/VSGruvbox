@@ -779,10 +779,10 @@
         <Background Type="CT_RAW" Source="FFCC241D" />
       </Color>
       <Color Name="Peek Background">
-        <Background Type="CT_RAW" Source="FF001F33" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="Peek Focused Border">
-        <Foreground Type="CT_RAW" Source="FF007ACC" />
+        <Foreground Type="CT_RAW" Source="FF458588" />
       </Color>
       <Color Name="Peek Background Unfocused">
         <Background Type="CT_RAW" Source="FF252525" />
@@ -841,6 +841,12 @@
       </Color>
       <Color Name="TrailingWhitespace">
         <Background Type="CT_RAW" Source="FF928374" />
+      </Color>
+      <Color Name="Peek History Selected">
+        <Background Type="CT_RAW" Source="FF458588" />
+      </Color>
+      <Color Name="Peek History Hovered">
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
